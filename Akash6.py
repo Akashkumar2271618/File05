@@ -46,7 +46,7 @@ M = '\x1b[38;5;205m'
 def linex():
     print(f'{A}━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━')
 def clear():
-        os.system(f'https://www.facebook.com/profile.php?id=61572436693142clear')
+        os.system(f'')
         print(logo)
 #________________UA______________#
 def sex():
@@ -146,7 +146,7 @@ def bd():
 #__________________INDIA DEF____________#
 def India():
     clear()
-    print(f'{G1}[{A}≈{G1}]{G1} EXAMPLE {A}➢{A} +91639{G}/{A}+91934{G}/{A}+91902{G}/{A}+91701');linex()
+    print(f'{G1}[{A}≈{G1}]{G1} EXAMPLE {A}➢{A} +91639{G}/{A}+91934{G}/{A}+91902{G}/{A}+91938');linex()
     code = input(f'{G1}[{A}?{G1}]{G1} CHOICE  {A}➢{G1} ')
     clear()
     print(f'{G1}[{A}≈{G1}]{G1} EXAMPLE {A}➢{A} 3000{G}/{A}5000{G}/{A}10000{G}/{A}99999');linex()
